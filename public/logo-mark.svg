@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Fileyo logo">
+  <rect width="240" height="240" fill="#171717" />
+  <g fill="#e3c9aa" stroke="#e3c9aa" stroke-width="8">
+    <path fill-rule="evenodd" d="M20 66.34a46.34 46.34 0 1 1 92.68 0a46.34 46.34 0 0 1-92.68 0" clip-rule="evenodd"/>
+    <path fill-rule="evenodd" d="M127.32 173.66a46.34 46.34 0 1 1 92.68 0a46.34 46.34 0 0 1-92.68 0" clip-rule="evenodd" opacity="0.5"/>
+    <path d="M20 175c0-21.21 0-31.82 6.59-38.41S43.79 130 65 130s31.82 0 38.41 6.59S110 153.79 110 175s0 31.82-6.59 38.41S86.21 220 65 220s-31.82 0-38.41-6.59S20 196.21 20 175"/>
+    <path d="M130 65c0-21.21 0-31.82 6.59-38.41S153.79 20 175 20s31.82 0 38.41 6.59S220 43.79 220 65s0 31.82-6.59 38.41S196.21 110 175 110s-31.82 0-38.41-6.59S130 86.21 130 65" opacity="0.5"/>
+  </g>
+</svg>
