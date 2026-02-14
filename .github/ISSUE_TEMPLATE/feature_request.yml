@@ -1,0 +1,22 @@
+name: Feature Request
+description: 기능 요청
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 배경/문제
+      description: 왜 필요한지 설명
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 제안 내용
+      description: 원하는 동작을 구체적으로 작성
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: 기대 효과
