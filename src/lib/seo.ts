@@ -10,7 +10,7 @@ export const localeSeo: Record<
   }
 > = {
   ko: {
-    title: '회원가입 없이 파일 공유 | Fileyo',
+    title: '무료 회원가입 없이 파일 공유 | Fileyo',
     description: '설치 없이 링크나 QR로 파일을 바로 공유하세요. 대용량 파일, 비밀번호 공유, 다중 파일 전송 지원.',
     keywords: [
       '파일 공유',
@@ -29,7 +29,7 @@ export const localeSeo: Record<
     ogLocale: 'ko_KR'
   },
   en: {
-    title: 'Share Files Without Sign-up | Fileyo',
+    title: 'Free File Sharing Without Sign-up | Fileyo',
     description:
       'Share files instantly with a link or QR. No signup, password protection, and fast browser-to-browser transfer.',
     keywords: [
@@ -49,7 +49,7 @@ export const localeSeo: Record<
     ogLocale: 'en_US'
   },
   ja: {
-    title: '会員登録なしでファイル共有 | Fileyo',
+    title: '無料・会員登録なしでファイル共有 | Fileyo',
     description: 'リンクやQRですぐ共有。会員登録不要、パスワード保護対応、ブラウザ間で高速転送。',
     keywords: [
       'ファイル共有',
@@ -60,12 +60,13 @@ export const localeSeo: Record<
       'パスワード付き ファイル共有',
       'P2P ファイル転送',
       'WebRTC ファイル転送',
-      'ブラウザ ファイル転送'
+      'ブラウザ ファイル転送',
+      '無料 ファイル共有'
     ],
     ogLocale: 'ja_JP'
   },
   'zh-TW': {
-    title: '免註冊檔案分享 | Fileyo',
+    title: '免費免註冊檔案分享 | Fileyo',
     description: '用連結或 QR 立即分享檔案。免註冊、可設密碼、支援多檔與大檔傳輸。',
     keywords: [
       '檔案分享',
@@ -76,12 +77,13 @@ export const localeSeo: Record<
       '密碼保護 檔案分享',
       'P2P 檔案傳輸',
       'WebRTC 檔案傳輸',
-      '瀏覽器 檔案傳輸'
+      '瀏覽器 檔案傳輸',
+      '免費 檔案分享'
     ],
     ogLocale: 'zh_TW'
   },
   'zh-CN': {
-    title: '免注册文件分享 | Fileyo',
+    title: '免费免注册文件分享 | Fileyo',
     description: '用链接或二维码立即分享文件。免注册、可设密码、支持多文件与大文件传输。',
     keywords: [
       '文件分享',
@@ -92,12 +94,13 @@ export const localeSeo: Record<
       '密码保护 文件分享',
       'P2P 文件传输',
       'WebRTC 文件传输',
-      '浏览器 文件传输'
+      '浏览器 文件传输',
+      '免费 文件分享'
     ],
     ogLocale: 'zh_CN'
   },
   es: {
-    title: 'Comparte Archivos Sin Registro | Fileyo',
+    title: 'Comparte Archivos Gratis Sin Registro | Fileyo',
     description:
       'Comparte archivos al instante con enlace o QR. Sin registro, con contraseña y transferencia rápida entre navegadores.',
     keywords: [
@@ -115,7 +118,7 @@ export const localeSeo: Record<
     ogLocale: 'es_ES'
   },
   fr: {
-    title: 'Partage de Fichiers Sans Inscription | Fileyo',
+    title: 'Partage de Fichiers Gratuit Sans Inscription | Fileyo',
     description:
       'Partagez vos fichiers instantanément via lien ou QR. Sans inscription, avec mot de passe et transfert rapide entre navigateurs.',
     keywords: [
@@ -127,12 +130,13 @@ export const localeSeo: Record<
       'partage avec mot de passe',
       'transfert P2P',
       'transfert WebRTC',
-      'transfert entre navigateurs'
+      'transfert entre navigateurs',
+      'partage de fichiers gratuit'
     ],
     ogLocale: 'fr_FR'
   },
   de: {
-    title: 'Dateien Teilen Ohne Registrierung | Fileyo',
+    title: 'Kostenlos Dateien Teilen Ohne Registrierung | Fileyo',
     description:
       'Dateien sofort per Link oder QR teilen. Ohne Registrierung, mit Passwortschutz und schnellem Browser-zu-Browser-Transfer.',
     keywords: [
@@ -144,12 +148,13 @@ export const localeSeo: Record<
       'passwortgeschützter datei transfer',
       'P2P dateiübertragung',
       'WebRTC dateiübertragung',
-      'browser zu browser transfer'
+      'browser zu browser transfer',
+      'kostenlos dateien teilen'
     ],
     ogLocale: 'de_DE'
   },
   'pt-BR': {
-    title: 'Compartilhe Arquivos Sem Cadastro | Fileyo',
+    title: 'Compartilhe Arquivos Grátis Sem Cadastro | Fileyo',
     description:
       'Compartilhe arquivos instantaneamente por link ou QR. Sem cadastro, com senha e transferência rápida entre navegadores.',
     keywords: [
