@@ -29,7 +29,7 @@ export const localeSeo: Record<
     ogLocale: 'ko_KR'
   },
   en: {
-    title: 'Free File Sharing Without Sign-up | Fileyo',
+    title: 'No-Signup Free File Sharing | Fileyo',
     description:
       'Share files instantly with a link or QR. No signup, password protection, and fast browser-to-browser transfer.',
     keywords: [
@@ -49,7 +49,7 @@ export const localeSeo: Record<
     ogLocale: 'en_US'
   },
   ja: {
-    title: '無料・会員登録なしでファイル共有 | Fileyo',
+    title: '会員登録なし・無料ファイル共有 | Fileyo',
     description: 'リンクやQRですぐ共有。会員登録不要、パスワード保護対応、ブラウザ間で高速転送。',
     keywords: [
       'ファイル共有',
@@ -66,7 +66,7 @@ export const localeSeo: Record<
     ogLocale: 'ja_JP'
   },
   'zh-TW': {
-    title: '免費免註冊檔案分享 | Fileyo',
+    title: '免註冊免費檔案分享 | Fileyo',
     description: '用連結或 QR 立即分享檔案。免註冊、可設密碼、支援多檔與大檔傳輸。',
     keywords: [
       '檔案分享',
@@ -83,7 +83,7 @@ export const localeSeo: Record<
     ogLocale: 'zh_TW'
   },
   'zh-CN': {
-    title: '免费免注册文件分享 | Fileyo',
+    title: '免注册免费文件分享 | Fileyo',
     description: '用链接或二维码立即分享文件。免注册、可设密码、支持多文件与大文件传输。',
     keywords: [
       '文件分享',
@@ -100,7 +100,7 @@ export const localeSeo: Record<
     ogLocale: 'zh_CN'
   },
   es: {
-    title: 'Comparte Archivos Gratis Sin Registro | Fileyo',
+    title: 'Compartir Archivos Gratis Sin Registro | Fileyo',
     description:
       'Comparte archivos al instante con enlace o QR. Sin registro, con contraseña y transferencia rápida entre navegadores.',
     keywords: [
@@ -136,7 +136,7 @@ export const localeSeo: Record<
     ogLocale: 'fr_FR'
   },
   de: {
-    title: 'Kostenlos Dateien Teilen Ohne Registrierung | Fileyo',
+    title: 'Kostenloser Dateiaustausch Ohne Registrierung | Fileyo',
     description:
       'Dateien sofort per Link oder QR teilen. Ohne Registrierung, mit Passwortschutz und schnellem Browser-zu-Browser-Transfer.',
     keywords: [
@@ -154,7 +154,7 @@ export const localeSeo: Record<
     ogLocale: 'de_DE'
   },
   'pt-BR': {
-    title: 'Compartilhe Arquivos Grátis Sem Cadastro | Fileyo',
+    title: 'Compartilhamento de Arquivos Grátis Sem Cadastro | Fileyo',
     description:
       'Compartilhe arquivos instantaneamente por link ou QR. Sem cadastro, com senha e transferência rápida entre navegadores.',
     keywords: [
