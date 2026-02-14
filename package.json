@@ -4,21 +4,40 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbo",
+    "dev:peer": "bun run --cwd ../fileyo-peer dev",
+    "dev:clean": "lsof -ti:3000,3001 | xargs kill -9 2>/dev/null || true && sleep 1 && next dev --turbo",
+    "dev:peer:clean": "lsof -ti:9000 | xargs kill -9 2>/dev/null || true && sleep 1 && bun run dev:peer",
+    "dev:all": "bun run dev:peer:clean & sleep 2 && bun run dev:clean",
     "build": "next build --turbo",
-    "start": "next start --turbo",
+    "start": "next start",
     "lint": "eslint",
     "format": "prettier --write \"src/**/*.{ts,tsx,js,jsx}\""
   },
   "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "ioredis": "^5.9.3",
+    "jszip": "^3.10.1",
+    "lucide-react": "^0.563.0",
+    "nanoid": "^5.1.6",
     "next": "16.1.6",
+    "next-intl": "^4.8.2",
+    "peerjs": "^1.5.5",
+    "qrcode.react": "^4.2.0",
+    "radix-ui": "^1.4.3",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "tailwind-merge": "^3.4.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.3.3",
     "@iconify/react": "^6.0.2",
     "@tailwindcss/postcss": "^4",
+    "@types/bcryptjs": "^3.0.0",
     "@types/node": "^20",
+    "@types/peerjs": "^1.1.0",
+    "@types/qrcode.react": "^3.0.0",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
@@ -26,7 +45,9 @@
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-prettier": "^5.5.5",
     "prettier": "^3.8.1",
+    "shadcn": "^3.8.4",
     "tailwindcss": "^4",
+    "tw-animate-css": "^1.4.0",
     "typescript": "^5"
   },
   "ignoreScripts": [
