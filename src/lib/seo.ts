@@ -10,7 +10,7 @@ export const localeSeo: Record<
   }
 > = {
   ko: {
-    title: '무료 회원가입 없이 파일 공유 | Fileyo',
+    title: '회원가입 없이 무료 파일 공유 | Fileyo',
     description: '설치 없이 링크나 QR로 파일을 바로 공유하세요. 대용량 파일, 비밀번호 공유, 다중 파일 전송 지원.',
     keywords: [
       '파일 공유',
