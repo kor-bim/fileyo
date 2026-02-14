@@ -100,9 +100,7 @@ export default async function RootLayout({
                   <AdSenseSlot minHeight={560} label="Sponsored" />
                 </div>
               </aside>
-              <main className="relative flex min-w-0 flex-col items-stretch justify-start">
-                {children}
-              </main>
+              <main className="relative flex min-w-0 flex-col items-stretch justify-start">{children}</main>
 
               <aside className="hidden lg:block">
                 <div className="sticky top-24">
