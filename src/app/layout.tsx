@@ -8,6 +8,7 @@ import { defaultLocale, isLocale } from '@/lib/locales'
 import { localeSeo } from '@/lib/seo'
 import { AdSenseSlot } from '@/components/adsense-slot'
 import { BackgroundWaveCanvas } from '@/components/background-wave-canvas'
+import { HomeOnly } from '@/components/home-only'
 
 const appUrl = process.env.NEXT_PUBLIC_APP_URL || 'http://localhost:3000'
 const siteUrl = new URL(appUrl)
@@ -91,22 +92,28 @@ export default async function RootLayout({
             <div className="fixed top-3 right-3 z-30 sm:top-auto sm:right-4 sm:bottom-4">
               <LanguageSwitcher />
             </div>
-            <div className="mx-auto mb-4 w-full max-w-6xl px-4 lg:hidden">
-              <AdSenseSlot minHeight={90} label="Sponsored" />
-            </div>
+            <HomeOnly>
+              <div className="mx-auto mb-4 w-full max-w-6xl px-4 lg:hidden">
+                <AdSenseSlot minHeight={90} label="Sponsored" />
+              </div>
+            </HomeOnly>
             <div className="mx-auto grid w-full max-w-[1850px] grid-cols-1 items-start gap-4 px-4 md:gap-6 lg:min-h-[calc(100vh-5.5rem)] lg:grid-cols-[minmax(0,1fr)_220px] lg:items-center 2xl:grid-cols-[220px_minmax(0,1fr)_220px]">
-              <aside className="hidden 2xl:block">
-                <div className="sticky top-24">
-                  <AdSenseSlot minHeight={560} label="Sponsored" />
-                </div>
-              </aside>
+              <HomeOnly>
+                <aside className="hidden 2xl:block">
+                  <div className="sticky top-24">
+                    <AdSenseSlot minHeight={560} label="Sponsored" />
+                  </div>
+                </aside>
+              </HomeOnly>
               <main className="relative flex min-w-0 flex-col items-stretch justify-start">{children}</main>
 
-              <aside className="hidden lg:block">
-                <div className="sticky top-24">
-                  <AdSenseSlot minHeight={560} label="Sponsored" />
-                </div>
-              </aside>
+              <HomeOnly>
+                <aside className="hidden lg:block">
+                  <div className="sticky top-24">
+                    <AdSenseSlot minHeight={560} label="Sponsored" />
+                  </div>
+                </aside>
+              </HomeOnly>
             </div>
           </div>
         </NextIntlClientProvider>
