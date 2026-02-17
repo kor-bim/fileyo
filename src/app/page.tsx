@@ -2,17 +2,20 @@
 
 import { useState, useRef } from 'react'
 import { useRouter } from 'next/navigation'
-import { useTranslations } from 'next-intl'
+import { useLocale, useTranslations } from 'next-intl'
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 import { createRoom } from '@/app/actions'
 import { formatBytes } from '@/lib/utils'
 import { Hero } from '@/components/hero'
+import { getHomeInfoContent } from '@/lib/content'
 
 export default function HomePage() {
   const router = useRouter()
   const t = useTranslations('home')
+  const locale = useLocale()
+  const homeInfo = getHomeInfoContent(locale)
   const fileInputRef = useRef<HTMLInputElement>(null)
   const [files, setFiles] = useState<File[]>([])
   const [password, setPassword] = useState('')
@@ -145,6 +148,27 @@ export default function HomePage() {
           <Hero />
         </div>
       </div>
+
+      <section className="mt-8 rounded-2xl border border-border bg-card/80 p-6">
+        <h2 className="text-xl font-semibold">{homeInfo.guideTitle}</h2>
+        <div className="mt-3 space-y-3 text-sm leading-7 text-muted-foreground">
+          {homeInfo.paragraphs.map((paragraph) => (
+            <p key={paragraph}>{paragraph}</p>
+          ))}
+        </div>
+      </section>
+
+      <section className="mt-6 rounded-2xl border border-border bg-card/80 p-6">
+        <h2 className="text-xl font-semibold">{homeInfo.faqTitle}</h2>
+        <div className="mt-3 space-y-4 text-sm">
+          {homeInfo.faqItems.map((item) => (
+            <div key={item.q}>
+              <h3 className="font-medium">{item.q}</h3>
+              <p className="mt-1 text-muted-foreground">{item.a}</p>
+            </div>
+          ))}
+        </div>
+      </section>
     </div>
   )
 }
