@@ -73,6 +73,11 @@ export default async function RootLayout({
       <head>
         <meta name="google-adsense-account" content="ca-pub-3568524879465237" />
         <meta name="naver-site-verification" content="5c916b137e26861b4e42ba548688f397527620bd" />
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3568524879465237"
+          crossOrigin="anonymous"
+        ></script>
       </head>
       <body className="font-sans antialiased">
         <BackgroundWaveCanvas />

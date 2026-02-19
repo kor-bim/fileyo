@@ -1,12 +1,10 @@
 'use client'
 
 import Link from 'next/link'
-import Script from 'next/script'
 import { ReactNode } from 'react'
 import { usePathname } from 'next/navigation'
 import { useLocale } from 'next-intl'
 import { LanguageSwitcher } from '@/components/language-switcher'
-import { AdSenseSlot } from '@/components/adsense-slot'
 import { getFooterLabels } from '@/lib/content'
 
 interface SiteShellProps {
@@ -18,9 +16,6 @@ export function SiteShell({ children }: Readonly<SiteShellProps>) {
   const locale = useLocale()
   const labels = getFooterLabels(locale)
   const isHome = pathname === '/'
-  const isGuide = pathname === '/guide' || pathname.startsWith('/guide/')
-  const isLegal = pathname === '/terms' || pathname === '/privacy' || pathname === '/dmca'
-  const showContentAds = isGuide || isLegal
 
   return (
     <div className="relative z-10 min-h-screen w-full pt-5 pb-4 md:pt-6 md:pb-5">
@@ -28,42 +23,31 @@ export function SiteShell({ children }: Readonly<SiteShellProps>) {
         <LanguageSwitcher />
       </div>
 
-      {showContentAds && (
-        <Script
-          id="adsense-content-pages"
-          strategy="afterInteractive"
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3568524879465237"
-          crossOrigin="anonymous"
-        />
-      )}
-
       {isHome ? (
         <main className="relative mx-auto flex w-full max-w-6xl min-w-0 flex-col items-stretch justify-start px-4">
           {children}
         </main>
-      ) : showContentAds ? (
-        <>
-          <div className="mx-auto mb-4 w-full max-w-6xl px-4 lg:hidden">
-            <AdSenseSlot minHeight={90} label="Sponsored" />
-          </div>
-          <div className="mx-auto grid w-full max-w-[1600px] grid-cols-1 items-start gap-4 px-4 md:gap-6 lg:grid-cols-[minmax(0,1fr)_260px]">
-            <main className="relative flex min-w-0 flex-col items-stretch justify-start">{children}</main>
-
-            <aside className="hidden lg:block">
-              <div className="sticky top-24">
-                <AdSenseSlot minHeight={560} label="Sponsored" />
-              </div>
-            </aside>
-          </div>
-        </>
       ) : (
-        <main className="relative mx-auto flex w-full max-w-6xl min-w-0 flex-col items-stretch justify-start px-4">
-          {children}
-        </main>
+        <div className="mx-auto w-full max-w-7xl px-4">
+          <div className="mb-4 flex items-center justify-start">
+            <Link
+              href="/"
+              className="inline-flex items-center rounded-md border border-border bg-background/80 px-3 py-2 text-sm text-muted-foreground transition-colors hover:text-foreground"
+            >
+              ← {labels.home}
+            </Link>
+          </div>
+          <main className="relative min-w-0">{children}</main>
+        </div>
       )}
 
-      <footer className="mx-auto mt-8 w-full max-w-6xl px-4 pb-4 text-xs text-muted-foreground">
+      <footer
+        className={`mx-auto mt-8 w-full px-4 pb-4 text-xs text-muted-foreground ${isHome ? 'max-w-6xl' : 'max-w-7xl'}`}
+      >
         <div className="flex flex-wrap items-center gap-x-4 gap-y-2">
+          <Link href="/" className="hover:text-foreground">
+            {labels.home}
+          </Link>
           <Link href="/guide" className="hover:text-foreground">
             {labels.guide}
           </Link>

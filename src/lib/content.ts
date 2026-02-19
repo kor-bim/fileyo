@@ -9,6 +9,7 @@ function localeKey(locale: string): LocaleKey {
 }
 
 type FooterLabels = {
+  home: string
   guide: string
   terms: string
   privacy: string
@@ -16,15 +17,15 @@ type FooterLabels = {
 }
 
 const footerLabels: Record<LocaleKey, FooterLabels> = {
-  ko: { guide: '가이드', terms: '이용약관', privacy: '개인정보처리방침', dmca: 'DMCA' },
-  en: { guide: 'Guide', terms: 'Terms', privacy: 'Privacy', dmca: 'DMCA' },
-  ja: { guide: 'ガイド', terms: '利用規約', privacy: 'プライバシー', dmca: 'DMCA' },
-  'zh-TW': { guide: '指南', terms: '服務條款', privacy: '隱私權政策', dmca: 'DMCA' },
-  'zh-CN': { guide: '指南', terms: '服务条款', privacy: '隐私政策', dmca: 'DMCA' },
-  es: { guide: 'Guía', terms: 'Términos', privacy: 'Privacidad', dmca: 'DMCA' },
-  fr: { guide: 'Guide', terms: 'Conditions', privacy: 'Confidentialité', dmca: 'DMCA' },
-  de: { guide: 'Guide', terms: 'AGB', privacy: 'Datenschutz', dmca: 'DMCA' },
-  'pt-BR': { guide: 'Guia', terms: 'Termos', privacy: 'Privacidade', dmca: 'DMCA' }
+  ko: { home: '홈', guide: '가이드', terms: '이용약관', privacy: '개인정보처리방침', dmca: 'DMCA' },
+  en: { home: 'Home', guide: 'Guide', terms: 'Terms', privacy: 'Privacy', dmca: 'DMCA' },
+  ja: { home: 'ホーム', guide: 'ガイド', terms: '利用規約', privacy: 'プライバシー', dmca: 'DMCA' },
+  'zh-TW': { home: '首頁', guide: '指南', terms: '服務條款', privacy: '隱私權政策', dmca: 'DMCA' },
+  'zh-CN': { home: '首页', guide: '指南', terms: '服务条款', privacy: '隐私政策', dmca: 'DMCA' },
+  es: { home: 'Inicio', guide: 'Guía', terms: 'Términos', privacy: 'Privacidad', dmca: 'DMCA' },
+  fr: { home: 'Accueil', guide: 'Guide', terms: 'Conditions', privacy: 'Confidentialité', dmca: 'DMCA' },
+  de: { home: 'Start', guide: 'Guide', terms: 'AGB', privacy: 'Datenschutz', dmca: 'DMCA' },
+  'pt-BR': { home: 'Início', guide: 'Guia', terms: 'Termos', privacy: 'Privacidade', dmca: 'DMCA' }
 }
 
 export function getFooterLabels(locale: string) {

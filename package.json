@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --turbo",
-    "dev:peer": "bun run --cwd ../fileyo-peer dev",
-    "dev:clean": "lsof -ti:3000,3001 | xargs kill -9 2>/dev/null || true && sleep 1 && next dev --turbo",
-    "dev:peer:clean": "lsof -ti:9000 | xargs kill -9 2>/dev/null || true && sleep 1 && bun run dev:peer",
+    "dev": "next dev --turbo -p 3010",
+    "dev:peer": "PORT=9010 bun run --cwd ../fileyo-peer dev",
+    "dev:clean": "lsof -ti:3010,3011 | xargs kill -9 2>/dev/null || true && sleep 1 && next dev --turbo -p 3010",
+    "dev:peer:clean": "lsof -ti:9010 | xargs kill -9 2>/dev/null || true && sleep 1 && PORT=9010 bun run --cwd ../fileyo-peer dev",
     "dev:all": "bun run dev:peer:clean & sleep 2 && bun run dev:clean",
     "build": "next build --turbo",
     "start": "next start",
@@ -14,6 +14,7 @@
     "format": "prettier --write \"src/**/*.{ts,tsx,js,jsx}\""
   },
   "dependencies": {
+    "@tailwindcss/typography": "^0.5.19",
     "bcryptjs": "^3.0.3",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
