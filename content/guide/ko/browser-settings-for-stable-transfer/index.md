@@ -29,13 +29,9 @@ publishedAt: "2026-01-16"
 
 ## 1️⃣ 사이트 권한부터 확인하세요 🔐
 
-![Image](https://www.addictivetips.com/app/uploads/2018/07/site-permissions-chrome-1-1.jpg)
-
-![Image](https://developer.chrome.com/static/docs/privacy-security/permissions-policy/image/chrome-devtools-integrati-c1d8dd8b3388f.png)
-
-![Image](https://stayge.zendesk.com/hc/article_attachments/38320997352473)
-
-![Image](https://www.lifewire.com/thmb/TNCl9TSnkaENs6xTDXti1B4euAY%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29/003-configure-camera-microphone-setting-in-google-chrome-4103623-90d395928a1e4455b8bda0c1e1d93556.jpg)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://www.addictivetips.com/app/uploads/2018/07/site-permissions-chrome-1-1.jpg) | ![Image](https://developer.chrome.com/static/docs/privacy-security/permissions-policy/image/chrome-devtools-integrati-c1d8dd8b3388f.png) | ![Image](https://stayge.zendesk.com/hc/article_attachments/38320997352473) | ![Image](https://www.lifewire.com/thmb/TNCl9TSnkaENs6xTDXti1B4euAY%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29/003-configure-camera-microphone-setting-in-google-chrome-4103623-90d395928a1e4455b8bda0c1e1d93556.jpg) |
 
 파일 전송이 자주 실패하면
 가장 먼저 볼 곳이에요
@@ -103,13 +99,9 @@ fileyo, p2p, 파일공유
 
 ## 4️⃣ 백그라운드 제한 해제 🌙
 
-![Image](https://www.majorgeeks.com/content/file/1533_how%2Bto%2Bchange%2Bsleep%2Bsettings%2Bon%2Bwindows%2B10%2B1.jpg)
-
-![Image](https://addons.mozilla.org/user-media/previews/thumbs/319/319908.jpg?modified=1761216771)
-
-![Image](https://help.ableton.com/hc/article_attachments/15640685498012)
-
-![Image](https://help.ableton.com/hc/article_attachments/15640670343196)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://www.majorgeeks.com/content/file/1533_how%2Bto%2Bchange%2Bsleep%2Bsettings%2Bon%2Bwindows%2B10%2B1.jpg) | ![Image](https://addons.mozilla.org/user-media/previews/thumbs/319/319908.jpg?modified=1761216771) | ![Image](https://help.ableton.com/hc/article_attachments/15640685498012) | ![Image](https://help.ableton.com/hc/article_attachments/15640670343196) |
 
 노트북 절전 모드
 탭 자동 일시중지

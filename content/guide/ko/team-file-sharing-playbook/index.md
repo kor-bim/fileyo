@@ -49,13 +49,9 @@ p2p 파일공유는
 
 # 2️⃣ 파일명 규칙부터 통일하세요 🏷
 
-![Image](https://www.uottawa.ca/library/sites/g/files/bhrskd381/files/styles/max_width_l_1470px/public/2022-11/RDM-file-naming-1024px.jpg?itok=4q-TOq5q)
-
-![Image](https://www.archbee.com/blogs/document-version-control-mistakes/files/645e3ef4f1377937d694d717_7da116b9.png)
-
-![Image](https://wordfields.com/images/blog/folder-naming-conventions.jpg)
-
-![Image](https://s3-ap-southeast-2.amazonaws.com/transforms.imagescience.com.au/_202306_imager-transforms/s3images/Knowledge-Base/Digital-Asset-Management/543771/RoR-FolderStructure_cb1826fb2fb0eb7552d7bb53b85ea0f3.jpg?mtime=1704341835)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://www.uottawa.ca/library/sites/g/files/bhrskd381/files/styles/max_width_l_1470px/public/2022-11/RDM-file-naming-1024px.jpg?itok=4q-TOq5q) | ![Image](https://www.archbee.com/blogs/document-version-control-mistakes/files/645e3ef4f1377937d694d717_7da116b9.png) | ![Image](https://wordfields.com/images/blog/folder-naming-conventions.jpg) | ![Image](https://s3-ap-southeast-2.amazonaws.com/transforms.imagescience.com.au/_202306_imager-transforms/s3images/Knowledge-Base/Digital-Asset-Management/543771/RoR-FolderStructure_cb1826fb2fb0eb7552d7bb53b85ea0f3.jpg?mtime=1704341835) |
 
 파일명은
 운영의 뼈대예요

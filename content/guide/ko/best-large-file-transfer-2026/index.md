@@ -17,23 +17,13 @@ publishedAt: "2026-01-12"
 저도 영상 파일 보내다가
 여러 번 막혀봤거든요 😂
 
-그래서 오늘은
-**fileyo, p2p, 파일공유**
-이 세 가지 중심으로
-딱 정리해드릴게요
-
-![img.png](img.png)
+그래서 오늘은 **fileyo, p2p, 파일공유** 이 세 가지 중심으로 딱 정리해드릴게요
 ---
-
 ## 1️⃣ 클라우드 파일공유 방식 ☁️
 
-![Image](https://uizard.io/static/86d0a1b523f70956bad7d96038358fc6/a8e47/3c995b0fa3650e96b1bea5f6e8c156b63e723b72-1440x835.png)
-
-![Image](https://miro.medium.com/v2/resize%3Afit%3A1200/0%2AupHruw1yxPtL3yTy.png)
-
-![Image](https://portal.stateexaminationsystem.org/chapter/IR/graphics/company_IR_response/company_IR_fileShareLink.png)
-
-![Image](https://res.cloudinary.com/dbulfrlrz/images/w_473%2Ch_1024%2Cc_scale/f_auto%2Cq_auto/v1707565401/wp-pme/iOS-Drive-share-via-link_redbox/iOS-Drive-share-via-link_redbox.png?_i=AA)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://uizard.io/static/86d0a1b523f70956bad7d96038358fc6/a8e47/3c995b0fa3650e96b1bea5f6e8c156b63e723b72-1440x835.png) | ![Image](https://miro.medium.com/v2/resize%3Afit%3A1200/0%2AupHruw1yxPtL3yTy.png) | ![Image](https://portal.stateexaminationsystem.org/chapter/IR/graphics/company_IR_response/company_IR_fileShareLink.png) | ![Image](https://res.cloudinary.com/dbulfrlrz/images/w_473%2Ch_1024%2Cc_scale/f_auto%2Cq_auto/v1707565401/wp-pme/iOS-Drive-share-via-link_redbox/iOS-Drive-share-via-link_redbox.png?_i=AA) |
 
 클라우드는
 가장 익숙한 파일공유 방식이죠
@@ -72,13 +62,9 @@ publishedAt: "2026-01-12"
 
 ## 2️⃣ p2p 방식 🔄
 
-![Image](https://miro.medium.com/v2/resize%3Afit%3A698/1%2A0EuJvw1m9KQw9rqlkMVAxA.png)
-
-![Image](https://media.licdn.com/dms/image/v2/D4D12AQFhy__CX-TF2Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1738025192389?e=2147483647\&t=_NsSh7aAkzEu-AFyx2cz3m7yfXYhpPASp2-5P68pZ8Q\&v=beta)
-
-![Image](https://www.wideanglesoftware.com/blog/images/transfer-files-from-android-to-pc-wifi.jpg)
-
-![Image](https://images.nexusapp.co/assets/21/ce/b7/38626391.jpg)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://miro.medium.com/v2/resize%3Afit%3A698/1%2A0EuJvw1m9KQw9rqlkMVAxA.png) | ![Image](https://media.licdn.com/dms/image/v2/D4D12AQFhy__CX-TF2Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1738025192389?e=2147483647\&t=_NsSh7aAkzEu-AFyx2cz3m7yfXYhpPASp2-5P68pZ8Q\&v=beta) | ![Image](https://www.wideanglesoftware.com/blog/images/transfer-files-from-android-to-pc-wifi.jpg) | ![Image](https://images.nexusapp.co/assets/21/ce/b7/38626391.jpg) |
 
 이제 p2p 방식이에요
 
@@ -116,13 +102,9 @@ p2p가 훨씬 빠르더라고요
 
 ## 3️⃣ fileyo로 보내본 솔직 후기 💛
 
-![Image](https://cdn.dribbble.com/userupload/45972535/file/95b13b881042f4ffcfabdf7ef94c2e42.jpg?resize=400x0)
-
-![Image](https://uploads-ssl.webflow.com/65faa2691a34b9fe3f9dd039/66150e690d464e06d8d01ad1_Upload%2Bfile%2BDrag%2Band%2Bdrop%2B%25281%2529.png)
-
-![Image](https://secure-file-transfer.io/images/home-page.png)
-
-![Image](https://support.hdeone.com/hc/article_attachments/46549130660505)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://cdn.dribbble.com/userupload/45972535/file/95b13b881042f4ffcfabdf7ef94c2e42.jpg?resize=400x0) | ![Image](https://uploads-ssl.webflow.com/65faa2691a34b9fe3f9dd039/66150e690d464e06d8d01ad1_Upload%2Bfile%2BDrag%2Band%2Bdrop%2B%25281%2529.png) | ![Image](https://secure-file-transfer.io/images/home-page.png) | ![Image](https://support.hdeone.com/hc/article_attachments/46549130660505) |
 
 제가 직접 써본 방식이에요
 

@@ -32,13 +32,9 @@ publishedAt: "2026-01-08"
 
 # 1️⃣ 왜 무기한 보관이 위험할까요?
 
-![Image](https://www.partitionwizard.com/images/uploads/2024/03/configure-a-low-disk-space-alert-thumbnail.jpg)
-
-![Image](https://images.openai.com/static-rsc-3/4l7a4-ne7wy7ySzfkBnb2P7BqIrPFh2E6ibasaexgZQvK_Ybh0ZD-z6KUI2Gg_NewWlECqlSbejxuQcUUfoq5mrkBIiP0ulzGsraNecSi1Y?purpose=fullsize\&v=1)
-
-![Image](https://miro.medium.com/1%2A4ebk6_g5gUX0y_Ga_kMEMA.jpeg)
-
-![Image](https://storage.googleapis.com/proudcity/elgl/uploads/2019/02/3050231-poster-p-1-your-four-step-digital-clutter-detox-plan.jpg)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://www.partitionwizard.com/images/uploads/2024/03/configure-a-low-disk-space-alert-thumbnail.jpg) | ![Image](https://images.openai.com/static-rsc-3/4l7a4-ne7wy7ySzfkBnb2P7BqIrPFh2E6ibasaexgZQvK_Ybh0ZD-z6KUI2Gg_NewWlECqlSbejxuQcUUfoq5mrkBIiP0ulzGsraNecSi1Y?purpose=fullsize\&v=1) | ![Image](https://miro.medium.com/1%2A4ebk6_g5gUX0y_Ga_kMEMA.jpeg) | ![Image](https://storage.googleapis.com/proudcity/elgl/uploads/2019/02/3050231-poster-p-1-your-four-step-digital-clutter-detox-plan.jpg) |
 
 ## 📈 비용 증가
 
@@ -122,13 +118,9 @@ fileyo, p2p, 파일공유
 
 # 3️⃣ 자동화 없으면 정책은 무너져요 🤖
 
-![Image](https://learn.microsoft.com/en-us/purview/media/retention-label-power-automate.png)
-
-![Image](https://res.cloudinary.com/dry8rzbyx/image/fetch/s--BwRTmuVJ--/f_auto/q_auto/c_scale%2Cw_1536/https%3A//www.knime.com/sites/default/files/public/2024-08/the_data_lifecycle.png)
-
-![Image](https://blog.reana.io/images/ui-retention-rules.png)
-
-![Image](https://www.robobasket.com/images/20110516/rule.gif)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://learn.microsoft.com/en-us/purview/media/retention-label-power-automate.png) | ![Image](https://res.cloudinary.com/dry8rzbyx/image/fetch/s--BwRTmuVJ--/f_auto/q_auto/c_scale%2Cw_1536/https%3A//www.knime.com/sites/default/files/public/2024-08/the_data_lifecycle.png) | ![Image](https://blog.reana.io/images/ui-retention-rules.png) | ![Image](https://www.robobasket.com/images/20110516/rule.gif) |
 
 사람 기억에 맡기면
 지켜지지 않아요

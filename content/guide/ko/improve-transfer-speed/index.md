@@ -26,13 +26,9 @@ publishedAt: "2026-02-10"
 
 ## 1️⃣ 와이파이보다 유선 연결이 빨라요 🔌
 
-![Image](https://images.openai.com/static-rsc-3/EfsaUGdXOK5d_OCKh7du0DlSU6szmg7Z43Ru55DRuiNBj_vxGCVymi32RKRgQVtDSDxlIoO04VTzDOEsNcKXR0whX7VnQtpLD0piu2wOe8o?purpose=fullsize\&v=1)
-
-![Image](https://images.openai.com/static-rsc-3/LhKjTGPhMyTHkvsTGRmUqaWLcpwrn51go1GSkSVrF9j8pKocDshe6SODPDJ0Ojo-GSRmoIKugx3stdBhsAu70Gtz34gvZlYWNP_-tAwDMbk?purpose=fullsize\&v=1)
-
-![Image](https://images.openai.com/static-rsc-3/nykS0SAe5agauv4xa7ntlVopCk5MGX7NKvDH6sI17rxQD4q0RWUt1x9v7AnFrgTBKMao_IpBr-uwLhWWTMxEoVccUM0UrLaWP2pFYnHtLlE?purpose=fullsize\&v=1)
-
-![Image](https://images.openai.com/static-rsc-3/vv8JCGlSOh1sUmJ5884A4ZC6NHT5gBqMmTRZogFNFqbPJEDs_dIldXmq5WWosbe-ls87j02m2AfG6Lz6dONmS4VCJqV2L2qc3XymLBlSZKQ?purpose=fullsize\&v=1)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://images.openai.com/static-rsc-3/EfsaUGdXOK5d_OCKh7du0DlSU6szmg7Z43Ru55DRuiNBj_vxGCVymi32RKRgQVtDSDxlIoO04VTzDOEsNcKXR0whX7VnQtpLD0piu2wOe8o?purpose=fullsize\&v=1) | ![Image](https://images.openai.com/static-rsc-3/LhKjTGPhMyTHkvsTGRmUqaWLcpwrn51go1GSkSVrF9j8pKocDshe6SODPDJ0Ojo-GSRmoIKugx3stdBhsAu70Gtz34gvZlYWNP_-tAwDMbk?purpose=fullsize\&v=1) | ![Image](https://images.openai.com/static-rsc-3/nykS0SAe5agauv4xa7ntlVopCk5MGX7NKvDH6sI17rxQD4q0RWUt1x9v7AnFrgTBKMao_IpBr-uwLhWWTMxEoVccUM0UrLaWP2pFYnHtLlE?purpose=fullsize\&v=1) | ![Image](https://images.openai.com/static-rsc-3/vv8JCGlSOh1sUmJ5884A4ZC6NHT5gBqMmTRZogFNFqbPJEDs_dIldXmq5WWosbe-ls87j02m2AfG6Lz6dONmS4VCJqV2L2qc3XymLBlSZKQ?purpose=fullsize\&v=1) |
 
 와이파이는 편하지만
 속도 손실이 있어요

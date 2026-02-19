@@ -29,13 +29,9 @@ p2p는 빠르고 편해요
 
 ## 1️⃣ 반드시 비밀번호 설정하기 🔐
 
-![Image](https://pmecdn.protonweb.com/image-transformation/?image=a136d011_7c44_48f9_b3d5_90faed5f2159_secure_online_video_storage_and_file_sharing_ca1e81fc89.png\&s=s)
-
-![Image](https://www.ionos.com/digitalguide/fileadmin/_processed_/e/a/csm_password-protect-zip-files-18_47f58a4b4d.webp)
-
-![Image](https://images.openai.com/static-rsc-3/6U6DimqazCB09uRjCH1CmOJhGRbN7D2QwxQLt286gWlD7ZwhazNQ9tVPFZp_Amxg7fhHBCE2jaY-gzwtXwMsYRqNvxJyX6VluQBv5QUO3kI?purpose=fullsize\&v=1)
-
-![Image](https://images.openai.com/static-rsc-3/QMLznhNyx0lA6bXFcLTf55SlfCNfiINkuLYvLyyQDZaVi0fRcU_tc7CgVDl_8aMdaGn-eBnPUVV4LnN58GHQxmvs_4ATbYo04PDsXfFj28I?purpose=fullsize\&v=1)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://pmecdn.protonweb.com/image-transformation/?image=a136d011_7c44_48f9_b3d5_90faed5f2159_secure_online_video_storage_and_file_sharing_ca1e81fc89.png\&s=s) | ![Image](https://www.ionos.com/digitalguide/fileadmin/_processed_/e/a/csm_password-protect-zip-files-18_47f58a4b4d.webp) | ![Image](https://images.openai.com/static-rsc-3/6U6DimqazCB09uRjCH1CmOJhGRbN7D2QwxQLt286gWlD7ZwhazNQ9tVPFZp_Amxg7fhHBCE2jaY-gzwtXwMsYRqNvxJyX6VluQBv5QUO3kI?purpose=fullsize\&v=1) | ![Image](https://images.openai.com/static-rsc-3/QMLznhNyx0lA6bXFcLTf55SlfCNfiINkuLYvLyyQDZaVi0fRcU_tc7CgVDl_8aMdaGn-eBnPUVV4LnN58GHQxmvs_4ATbYo04PDsXfFj28I?purpose=fullsize\&v=1) |
 
 p2p 파일공유는
 링크 기반 전송이에요

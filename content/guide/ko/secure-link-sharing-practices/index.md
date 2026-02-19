@@ -23,13 +23,9 @@ publishedAt: "2026-02-24"
 
 # ⚠ 링크 공유가 위험해지는 순간
 
-![Image](https://media.licdn.com/dms/image/v2/D4E12AQGbj9SW05S5iQ/article-cover_image-shrink_600_2000/B4EZl1Y7q2KcAQ-/0/1758611097938?e=2147483647\&t=-9V45ktMvwFAOtdmh0T7PNig6diOmvNXELvpPD3Nlaw\&v=beta)
-
-![Image](https://storage.googleapis.com/support-forums-api/attachment/thread-352496699-13551845534484662291.png)
-
-![Image](https://www.researchgate.net/publication/344301183/figure/fig1/AS%3A937158491787265%401600447404899/FIGNO1-Architecture-diagram-II-ROLE-OF-DATA-LEAKAGE-DETECTION-The-Data-leak-detection.png)
-
-![Image](https://ironscales.com/hs-fs/hubfs/Blog/2023/Data-Leak.png?height=367\&name=Data-Leak.png\&width=751)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://media.licdn.com/dms/image/v2/D4E12AQGbj9SW05S5iQ/article-cover_image-shrink_600_2000/B4EZl1Y7q2KcAQ-/0/1758611097938?e=2147483647\&t=-9V45ktMvwFAOtdmh0T7PNig6diOmvNXELvpPD3Nlaw\&v=beta) | ![Image](https://storage.googleapis.com/support-forums-api/attachment/thread-352496699-13551845534484662291.png) | ![Image](https://www.researchgate.net/publication/344301183/figure/fig1/AS%3A937158491787265%401600447404899/FIGNO1-Architecture-diagram-II-ROLE-OF-DATA-LEAKAGE-DETECTION-The-Data-leak-detection.png) | ![Image](https://ironscales.com/hs-fs/hubfs/Blog/2023/Data-Leak.png?height=367\&name=Data-Leak.png\&width=751) |
 
 ## 1️⃣ 수신 대상이 불명확할 때
 
@@ -80,13 +76,9 @@ fileyo, p2p, 파일공유
 
 # 🔐 반드시 설정해야 할 필수 항목
 
-![Image](https://learn-attachment.microsoft.com/api/attachments/2aa4094a-ba4c-4145-91dd-068b9487736e?platform=QnA)
-
-![Image](https://tidbits.com/uploads/2016/11/Netflix-9-opening-screen.png)
-
-![Image](https://st3.depositphotos.com/25453930/36853/v/1600/depositphotos_368535450-stock-illustration-confused-woman-forgetting-her-password.jpg)
-
-![Image](https://st.depositphotos.com/2466369/54624/v/450/depositphotos_546241708-stock-illustration-secure-payment-modern-flat-concept.jpg)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://learn-attachment.microsoft.com/api/attachments/2aa4094a-ba4c-4145-91dd-068b9487736e?platform=QnA) | ![Image](https://tidbits.com/uploads/2016/11/Netflix-9-opening-screen.png) | ![Image](https://st3.depositphotos.com/25453930/36853/v/1600/depositphotos_368535450-stock-illustration-confused-woman-forgetting-her-password.jpg) | ![Image](https://st.depositphotos.com/2466369/54624/v/450/depositphotos_546241708-stock-illustration-secure-payment-modern-flat-concept.jpg) |
 
 ## ✔ 링크 만료 시간 기본값 설정
 
@@ -140,13 +132,9 @@ fileyo, p2p, 파일공유
 
 # 📌 팀 운영 원칙
 
-![Image](https://cdn1-public.infotech.com/concierge_service/deliverables/thumbnails/533/SecurityPolicy.png?1751480554=)
-
-![Image](https://developer.harness.io/assets/images/manage-access-control-for-ccm-dashboards-01-3c095f9fea370cbe8f877e8b33b55bdb.png)
-
-![Image](https://docs.short.io/assets/images/features-how-to-set-up-link-expiration-or-temporary-url-screenshotfrom2025-03-1116-25-23-aae0989b-bd29ff126943229244010ac582d02899.png)
-
-![Image](https://help.figma.com/hc/article_attachments/23190947213463)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://cdn1-public.infotech.com/concierge_service/deliverables/thumbnails/533/SecurityPolicy.png?1751480554=) | ![Image](https://developer.harness.io/assets/images/manage-access-control-for-ccm-dashboards-01-3c095f9fea370cbe8f877e8b33b55bdb.png) | ![Image](https://docs.short.io/assets/images/features-how-to-set-up-link-expiration-or-temporary-url-screenshotfrom2025-03-1116-25-23-aae0989b-bd29ff126943229244010ac582d02899.png) | ![Image](https://help.figma.com/hc/article_attachments/23190947213463) |
 
 ## ✔ 중요 문서는 링크 생성 권한 제한
 

@@ -29,13 +29,9 @@ publishedAt: "2026-02-18"
 
 ## 1️⃣ 와이파이 고정부터 하세요 📶
 
-![Image](https://www.lifewire.com/thmb/gOkeyprUq0Z3XI_OpULTkw3-K7Q%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29/androidwifi-bcada8836c314cc5ad090ff827131320.jpg)
-
-![Image](https://images.openai.com/static-rsc-3/U4Ac8K_5qUhqo26EOVWHWnTW4ld8k87u51YdEwvWPcZwXD5BxVq-fM5rnbPGO7-eqFiWawMo5VmiU4Z_W6EDj26cGQKoZxA0e_og9WNHFvc?purpose=fullsize\&v=1)
-
-![Image](https://cdn.mos.cms.futurecdn.net/ooe3ZkhAU4E4A5mNLpPf69.jpg)
-
-![Image](https://cdn.mos.cms.futurecdn.net/zLJX6sYdsNb4ZDsXhcu4dQ.jpg)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://www.lifewire.com/thmb/gOkeyprUq0Z3XI_OpULTkw3-K7Q%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29/androidwifi-bcada8836c314cc5ad090ff827131320.jpg) | ![Image](https://images.openai.com/static-rsc-3/U4Ac8K_5qUhqo26EOVWHWnTW4ld8k87u51YdEwvWPcZwXD5BxVq-fM5rnbPGO7-eqFiWawMo5VmiU4Z_W6EDj26cGQKoZxA0e_og9WNHFvc?purpose=fullsize\&v=1) | ![Image](https://cdn.mos.cms.futurecdn.net/ooe3ZkhAU4E4A5mNLpPf69.jpg) | ![Image](https://cdn.mos.cms.futurecdn.net/zLJX6sYdsNb4ZDsXhcu4dQ.jpg) |
 
 모바일은
 망을 자주 바꿔요
@@ -107,13 +103,9 @@ fileyo, p2p, 파일공유
 
 ## 5️⃣ 브라우저 권한 확인 🔐
 
-![Image](https://www.avg.com/hs-fs/hubfs/Blog_Content/Avg/Signal/AVG%20Signal%20Images/how_to_set_your_default_browser_signal/img-13.png?height=820\&name=img-13.png\&width=758)
-
-![Image](https://www.isumsoft.com/images/iphone-tips/how-to-enable-or-disable-pop-up-blocker-in-safari/block-pop-ups.png)
-
-![Image](https://bytescale.mobbin.com/FW25bBB/image/mobbin.com/prod/file.webp?enc=1.BQnbdJK6.9H-tfgHlzanACATr.wpwNzKsEZHmBIt_P5A9QUwF7hbPElEXpuE1oAolVxlRrctktUooBrXLKQA-OOE-8GlytFZYYiB9xguG6EEqvLavrazDlkJy4A-wgEPPgNHIPmvZo1vcX-C6YOrQwxa1jJlJJsYsHp24m887_glRyxAHGMf3zcis2X8A7uEM9g7MALwV7TAH-gaBMTe8A9t7jdFPiQZqsJuGkU4yzSGjhw0gbPLOM4HagzyPbcNnMRsFWoUNcbaiORAblQA43kCY7ky9wjZshcneJCYKKs2Wlby-ZosZhls8HSp1dRvQcMoa6K0XQSV6Z0lR3CtqY1TsYzVlE7Aq56CqK_t5DBf4giw8cz40O7V5tLP1RWXsFa3tYMdM)
-
-![Image](https://cdn.dribbble.com/userupload/21768215/file/original-8e6acae335fb8406a7ecb962086c2591.png?resize=752x\&vertical=center)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://www.avg.com/hs-fs/hubfs/Blog_Content/Avg/Signal/AVG%20Signal%20Images/how_to_set_your_default_browser_signal/img-13.png?height=820\&name=img-13.png\&width=758) | ![Image](https://www.isumsoft.com/images/iphone-tips/how-to-enable-or-disable-pop-up-blocker-in-safari/block-pop-ups.png) | ![Image](https://bytescale.mobbin.com/FW25bBB/image/mobbin.com/prod/file.webp?enc=1.BQnbdJK6.9H-tfgHlzanACATr.wpwNzKsEZHmBIt_P5A9QUwF7hbPElEXpuE1oAolVxlRrctktUooBrXLKQA-OOE-8GlytFZYYiB9xguG6EEqvLavrazDlkJy4A-wgEPPgNHIPmvZo1vcX-C6YOrQwxa1jJlJJsYsHp24m887_glRyxAHGMf3zcis2X8A7uEM9g7MALwV7TAH-gaBMTe8A9t7jdFPiQZqsJuGkU4yzSGjhw0gbPLOM4HagzyPbcNnMRsFWoUNcbaiORAblQA43kCY7ky9wjZshcneJCYKKs2Wlby-ZosZhls8HSp1dRvQcMoa6K0XQSV6Z0lR3CtqY1TsYzVlE7Aq56CqK_t5DBf4giw8cz40O7V5tLP1RWXsFa3tYMdM) | ![Image](https://cdn.dribbble.com/userupload/21768215/file/original-8e6acae335fb8406a7ecb962086c2591.png?resize=752x\&vertical=center) |
 
 파일공유 실패가
 권한 문제일 때 많아요

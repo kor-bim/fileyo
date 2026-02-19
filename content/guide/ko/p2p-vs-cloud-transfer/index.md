@@ -21,13 +21,9 @@ P2P 전송과
 
 ## 1️⃣ 전송 구조 차이 🔍
 
-![Image](https://www.researchgate.net/publication/313370436/figure/fig1/AS%3A654087687258112%401532958065443/Block-diagram-of-the-proposed-file-sharing-methodology.png)
-
-![Image](https://www.researchgate.net/publication/274640755/figure/fig2/AS%3A613953000460297%401523389210788/An-example-of-file-sharing-in-peer-to-peer-system.png)
-
-![Image](https://www.researchgate.net/publication/301205646/figure/fig2/AS%3A349962245296129%401460448909524/File-transfer-flow-chart-between-the-server-and-the-file-server.png)
-
-![Image](https://www.researchgate.net/publication/50305036/figure/fig1/AS%3A203217540522001%401425462245929/Process-flow-chart-of-local-installation-of-the-file-transfer-protocol-utility-operator.png)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://www.researchgate.net/publication/313370436/figure/fig1/AS%3A654087687258112%401532958065443/Block-diagram-of-the-proposed-file-sharing-methodology.png) | ![Image](https://www.researchgate.net/publication/274640755/figure/fig2/AS%3A613953000460297%401523389210788/An-example-of-file-sharing-in-peer-to-peer-system.png) | ![Image](https://www.researchgate.net/publication/301205646/figure/fig2/AS%3A349962245296129%401460448909524/File-transfer-flow-chart-between-the-server-and-the-file-server.png) | ![Image](https://www.researchgate.net/publication/50305036/figure/fig1/AS%3A203217540522001%401425462245929/Process-flow-chart-of-local-installation-of-the-file-transfer-protocol-utility-operator.png) |
 
 ### ☁️ 클라우드 파일공유
 

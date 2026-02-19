@@ -25,13 +25,9 @@ publishedAt: "2026-02-14"
 
 # ✅ 1️⃣ 전달 전 준비 단계
 
-![Image](https://ap-southeast-2.cdn.h5p.com/orgs/1290941736510937789/organization/content/1292125792912091279/images/image-656544e0931d3.jpg)
-
-![Image](https://scispace.com/ai-agent-seo/page-thumbnails/checksum-generator-thumbnai-igzbn2c8.png)
-
-![Image](https://miro.medium.com/1%2Aky2kuFOIj8xeS4T5gW2ZpA.png)
-
-![Image](https://miro.medium.com/v2/resize%3Afit%3A1400/1%2A65-OKaFWYEupygq7tME49w.png)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://ap-southeast-2.cdn.h5p.com/orgs/1290941736510937789/organization/content/1292125792912091279/images/image-656544e0931d3.jpg) | ![Image](https://scispace.com/ai-agent-seo/page-thumbnails/checksum-generator-thumbnai-igzbn2c8.png) | ![Image](https://miro.medium.com/1%2Aky2kuFOIj8xeS4T5gW2ZpA.png) | ![Image](https://miro.medium.com/v2/resize%3Afit%3A1400/1%2A65-OKaFWYEupygq7tME49w.png) |
 
 ## ✔ 영상 파일명 규칙 통일
 
@@ -94,13 +90,9 @@ fileyo, p2p, 파일공유
 
 # 📦 2️⃣ 전달 단계 운영 기준
 
-![Image](https://pmecdn.protonweb.com/image-transformation/?image=f6a6fb4c_c491_4a9e_a716_2fbf9c626615_password_protected_E2_80_A8file_and_folder_sharing_61163f8b38.png\&s=s)
-
-![Image](https://us.v-cdn.net/6032394/uploads/8OIO4P7ZZEY9/01.png)
-
-![Image](https://cdn.dribbble.com/userupload/27523279/file/original-4c61e8f9040953760cb82f62ef4adb78.gif)
-
-![Image](https://miro.medium.com/v2/resize%3Afit%3A2000/1%2AGP2sCzGFu9dqHCV-cPaWXg.jpeg)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://pmecdn.protonweb.com/image-transformation/?image=f6a6fb4c_c491_4a9e_a716_2fbf9c626615_password_protected_E2_80_A8file_and_folder_sharing_61163f8b38.png\&s=s) | ![Image](https://us.v-cdn.net/6032394/uploads/8OIO4P7ZZEY9/01.png) | ![Image](https://cdn.dribbble.com/userupload/27523279/file/original-4c61e8f9040953760cb82f62ef4adb78.gif) | ![Image](https://miro.medium.com/v2/resize%3Afit%3A2000/1%2AGP2sCzGFu9dqHCV-cPaWXg.jpeg) |
 
 ## 1️⃣ 수신 가능 시간 확인
 
@@ -152,11 +144,9 @@ p2p 파일공유는
 
 # 🗂 3️⃣ 전달 후 정리 단계
 
-![Image](https://docs.informatica.com/content/dam/source/GUID-3/GUID-3F5CB741-53D4-479B-88E0-391B7C4B9C56/68/en/GUID-42F845E1-68B8-4512-8898-AA167108281B-low.png)
-
-![Image](https://www.smartsheet.com/sites/default/files/2022-07/IC-Project-Closeout-Checklist-Template.png)
-
-![Image](https://www.smartsheet.com/sites/default/files/2022-07/IC-Project-Management-Checklist-Template.png)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://docs.informatica.com/content/dam/source/GUID-3/GUID-3F5CB741-53D4-479B-88E0-391B7C4B9C56/68/en/GUID-42F845E1-68B8-4512-8898-AA167108281B-low.png) | ![Image](https://www.smartsheet.com/sites/default/files/2022-07/IC-Project-Closeout-Checklist-Template.png) | ![Image](https://www.smartsheet.com/sites/default/files/2022-07/IC-Project-Management-Checklist-Template.png) |   |
 
 ## ✔ 전송 완료 로그 기록
 

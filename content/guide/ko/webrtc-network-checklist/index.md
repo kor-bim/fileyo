@@ -30,13 +30,9 @@ publishedAt: "2026-03-08"
 
 # ✅ 왜 사전 점검이 필요한가
 
-![Image](https://i.imgur.com/69pPV7K.png)
-
-![Image](https://www.anyviewer.com/screenshot/windows/file-too-large.png)
-
-![Image](https://h30434.www3.hp.com/t5/image/serverpage/image-id/309730i4B5FB25F7EA134B5?v=v2)
-
-![Image](https://kaas.hpcloud.hp.com/PROD/v2/renderbinary/13394947/7869976/comcon-win-genpc-p-test-hw-fail/ss-hpsa-hp-network-check)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://i.imgur.com/69pPV7K.png) | ![Image](https://www.anyviewer.com/screenshot/windows/file-too-large.png) | ![Image](https://h30434.www3.hp.com/t5/image/serverpage/image-id/309730i4B5FB25F7EA134B5?v=v2) | ![Image](https://kaas.hpcloud.hp.com/PROD/v2/renderbinary/13394947/7869976/comcon-win-genpc-p-test-hw-fail/ss-hpsa-hp-network-check) |
 
 ## ✔ 대용량은 환경 영향을 크게 받아요
 
@@ -69,13 +65,9 @@ fileyo, p2p, 파일공유
 
 # 🔎 핵심 체크 항목 6가지
 
-![Image](https://help.digitalpigeon.com/hc/article_attachments/360000903216/SCT2FINAL.png)
-
-![Image](https://images.openai.com/static-rsc-3/y-BGNkQn3Wm6sm9z2MhDEtFS8UW6BmleAjLiraWJaVpVrTL4En1M6gP_xy90zLB2lDfwOvIP6CHNCklc8EzZrbGIwE2FQcKn4g_boXWj7mE?purpose=fullsize\&v=1)
-
-![Image](https://downloads.linksys.com/support/assets/HF/hf130-07-en-v1.png)
-
-![Image](https://www.partitionwizard.com/images/uploads/2022/12/check-update-router-firmware-thumbnail.jpg)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://help.digitalpigeon.com/hc/article_attachments/360000903216/SCT2FINAL.png) | ![Image](https://images.openai.com/static-rsc-3/y-BGNkQn3Wm6sm9z2MhDEtFS8UW6BmleAjLiraWJaVpVrTL4En1M6gP_xy90zLB2lDfwOvIP6CHNCklc8EzZrbGIwE2FQcKn4g_boXWj7mE?purpose=fullsize\&v=1) | ![Image](https://downloads.linksys.com/support/assets/HF/hf130-07-en-v1.png) | ![Image](https://www.partitionwizard.com/images/uploads/2022/12/check-update-router-firmware-thumbnail.jpg) |
 
 ## 1️⃣ 업로드 대역폭 확인
 
@@ -161,13 +153,9 @@ p2p 세션이 끊겨요
 
 # 🧾 실무 적용 방식
 
-![Image](https://imgv2-1-f.scribdassets.com/img/document/371027465/original/f96f98fa32/1?v=1)
-
-![Image](https://www.researchgate.net/publication/357869255/figure/fig1/AS%3A1112854811947008%401642336671125/Transfer-team-communication-checklist.png)
-
-![Image](https://cdn.shopify.com/s/files/1/3007/4332/files/Project-Planning-Checklist_fbe85cbb-0fa0-464a-8152-7dd898a58314_1024x1024.png?v=1634902001)
-
-![Image](https://i.pinimg.com/736x/16/97/cb/1697cb08b082aa99ccf064cc0563d424.jpg)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://imgv2-1-f.scribdassets.com/img/document/371027465/original/f96f98fa32/1?v=1) | ![Image](https://www.researchgate.net/publication/357869255/figure/fig1/AS%3A1112854811947008%401642336671125/Transfer-team-communication-checklist.png) | ![Image](https://cdn.shopify.com/s/files/1/3007/4332/files/Project-Planning-Checklist_fbe85cbb-0fa0-464a-8152-7dd898a58314_1024x1024.png?v=1634902001) | ![Image](https://i.pinimg.com/736x/16/97/cb/1697cb08b082aa99ccf064cc0563d424.jpg) |
 
 ## ✔ 팀 공용 체크리스트 만들기
 

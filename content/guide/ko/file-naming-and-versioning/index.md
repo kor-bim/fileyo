@@ -47,13 +47,9 @@ fileyo, p2p, 파일공유
 
 # 2️⃣ 5GHz와 2.4GHz 차이 이해하기 📶
 
-![Image](https://www.centurylink.com/content/dam/home/help/internet/speed-infographics/2.4-vs-5_lg.png)
-
-![Image](https://image.made-in-china.com/2f0j00RUBYezOrJNup/5g-Cheap-Prices-White-Label-Volte-Rj11-Port-Dual-Band-WiFi-3G-4G-Wireless-Router-with-4-SIM-Card-Slot.webp)
-
-![Image](https://www.partitionwizard.com/images/uploads/articles/2020/02/how-to-connect-to-5ghz-wifi/how-to-connect-to-5ghz-wifi-2.png)
-
-![Image](https://images.techadvisor.com/cmsdata/features/3608743/enable_5ghz_on_laptop_properties.jpg)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://www.centurylink.com/content/dam/home/help/internet/speed-infographics/2.4-vs-5_lg.png) | ![Image](https://image.made-in-china.com/2f0j00RUBYezOrJNup/5g-Cheap-Prices-White-Label-Volte-Rj11-Port-Dual-Band-WiFi-3G-4G-Wireless-Router-with-4-SIM-Card-Slot.webp) | ![Image](https://www.partitionwizard.com/images/uploads/articles/2020/02/how-to-connect-to-5ghz-wifi/how-to-connect-to-5ghz-wifi-2.png) | ![Image](https://images.techadvisor.com/cmsdata/features/3608743/enable_5ghz_on_laptop_properties.jpg) |
 
 2.4GHz는
 도달 거리는 길어요
@@ -110,13 +106,9 @@ fileyo, p2p, 파일공유
 
 # 5️⃣ 브라우저가 병목이 되기도 해요 🌐
 
-![Image](https://global.discourse-cdn.com/brave/original/3X/3/4/34f25cf2d69ad0e35f864a62caf8b3d9487245a9.jpeg)
-
-![Image](https://learn-attachment.microsoft.com/api/attachments/e6c75f95-8529-49b2-94e0-44cde550aa46?platform=QnA)
-
-![Image](https://www.lifewire.com/thmb/N-402sg7G1-YSAwYdWC0nUzLyVo%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29/017-how-to-close-all-tabs-on-your-computer-or-android-browsers-8fa49e04a16f436f83e420ce5c27b71c.jpg)
-
-![Image](https://www.lifewire.com/thmb/d5O2Szj3_OTa7vWGvXJszxs1Z9M%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29/002-how-to-close-all-tabs-on-your-computer-or-android-browsers-02cdd85db032420d93cadb18108c130b.jpg)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://global.discourse-cdn.com/brave/original/3X/3/4/34f25cf2d69ad0e35f864a62caf8b3d9487245a9.jpeg) | ![Image](https://learn-attachment.microsoft.com/api/attachments/e6c75f95-8529-49b2-94e0-44cde550aa46?platform=QnA) | ![Image](https://www.lifewire.com/thmb/N-402sg7G1-YSAwYdWC0nUzLyVo%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29/017-how-to-close-all-tabs-on-your-computer-or-android-browsers-8fa49e04a16f436f83e420ce5c27b71c.jpg) | ![Image](https://www.lifewire.com/thmb/d5O2Szj3_OTa7vWGvXJszxs1Z9M%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29/002-how-to-close-all-tabs-on-your-computer-or-android-browsers-02cdd85db032420d93cadb18108c130b.jpg) |
 
 웹 기반 파일공유는
 브라우저가 전송 엔진이에요
@@ -173,13 +165,9 @@ WebRTC 연결을 써요
 
 # 8️⃣ 절전 모드는 속도를 제한해요 🔋
 
-![Image](https://help.ableton.com/hc/article_attachments/15640685498012)
-
-![Image](https://www.lifewire.com/thmb/ytkKzsCHYzpovirEXIpj7Q4sZSY%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29/batterysettings-67b0969571154f09ace7241ddc7c7be5.jpg)
-
-![Image](https://previews.123rf.com/images/damrongratta/damrongratta1804/damrongratta180400002/100636877-plug-in-adapter-power-cord-charger-of-laptop-computer-on-wooden-floor-with-sun-warm-light.jpg)
-
-![Image](https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/esupport/esupport-pages/ac-adapter-charger-connected-laptop.png)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://help.ableton.com/hc/article_attachments/15640685498012) | ![Image](https://www.lifewire.com/thmb/ytkKzsCHYzpovirEXIpj7Q4sZSY%3D/1500x0/filters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29/batterysettings-67b0969571154f09ace7241ddc7c7be5.jpg) | ![Image](https://previews.123rf.com/images/damrongratta/damrongratta1804/damrongratta180400002/100636877-plug-in-adapter-power-cord-charger-of-laptop-computer-on-wooden-floor-with-sun-warm-light.jpg) | ![Image](https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/esupport/esupport-pages/ac-adapter-charger-connected-laptop.png) |
 
 절전 모드는
 CPU와 네트워크를

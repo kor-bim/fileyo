@@ -23,13 +23,9 @@ publishedAt: "2026-02-22"
 
 # ✅ 정책에 꼭 들어갈 항목
 
-![Image](https://images.template.net/321521/Administration-File-Sharing-Policy-Template-edit-online-1.jpg)
-
-![Image](https://imgv2-2-f.scribdassets.com/img/document/12834094/original/ae09e11012/1?v=1)
-
-![Image](https://tandem.app/files/policy-review-meeting.png)
-
-![Image](https://www.powerdms.com/hs-fs/hubfs/Imported_Blog_Media/powerdms-assets-photos-332-office.jpg?name=powerdms-assets-photos-332-office.jpg\&width=996)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://images.template.net/321521/Administration-File-Sharing-Policy-Template-edit-online-1.jpg) | ![Image](https://imgv2-2-f.scribdassets.com/img/document/12834094/original/ae09e11012/1?v=1) | ![Image](https://tandem.app/files/policy-review-meeting.png) | ![Image](https://www.powerdms.com/hs-fs/hubfs/Imported_Blog_Media/powerdms-assets-photos-332-office.jpg?name=powerdms-assets-photos-332-office.jpg\&width=996) |
 
 ## 1️⃣ 허용 파일 유형과 최대 용량
 
@@ -116,13 +112,9 @@ fileyo, p2p, 파일공유
 
 # 📌 운영 원칙
 
-![Image](https://www.slideteam.net/media/catalog/product/cache/1280x720/o/n/one_page_policy_sample_fact_sheet_presentation_report_infographic_ppt_pdf_document_slide01.jpg)
-
-![Image](https://images.template.net/439473/Monthly-Compliance-Report-Template-edit-online.png)
-
-![Image](https://www.slideteam.net/media/catalog/product/cache/1280x720/p/r/product_policy_checklist_for_meeting_set_goals_slide01.jpg)
-
-![Image](https://s3.amazonaws.com/thumbnails.venngage.com/template/1d35f0f9-f56b-4920-906d-d851056e7d21.png)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://www.slideteam.net/media/catalog/product/cache/1280x720/o/n/one_page_policy_sample_fact_sheet_presentation_report_infographic_ppt_pdf_document_slide01.jpg) | ![Image](https://images.template.net/439473/Monthly-Compliance-Report-Template-edit-online.png) | ![Image](https://www.slideteam.net/media/catalog/product/cache/1280x720/p/r/product_policy_checklist_for_meeting_set_goals_slide01.jpg) | ![Image](https://s3.amazonaws.com/thumbnails.venngage.com/template/1d35f0f9-f56b-4920-906d-d851056e7d21.png) |
 
 ## ✔ 정책은 짧고 명확하게
 

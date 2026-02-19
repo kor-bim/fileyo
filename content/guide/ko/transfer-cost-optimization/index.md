@@ -25,13 +25,9 @@ publishedAt: "2026-03-03"
 
 # 📈 비용이 커지는 지점
 
-![Image](https://a-us.storyblok.com/f/1019449/2048x1907/9c238ea766/fee-reductions-2010-present.png)
-
-![Image](https://cdn.dribbble.com/userupload/27589077/file/original-a1dbd637ae48cc689c0dce05beb3e3ba.jpg?format=webp\&resize=400x300\&vertical=center)
-
-![Image](https://www.partitionwizard.com/images/uploads/2024/03/configure-a-low-disk-space-alert-thumbnail.jpg)
-
-![Image](https://www.hdd-tool.com/images/disk-space/low-disk-space-windows8.jpg)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://a-us.storyblok.com/f/1019449/2048x1907/9c238ea766/fee-reductions-2010-present.png) | ![Image](https://cdn.dribbble.com/userupload/27589077/file/original-a1dbd637ae48cc689c0dce05beb3e3ba.jpg?format=webp\&resize=400x300\&vertical=center) | ![Image](https://www.partitionwizard.com/images/uploads/2024/03/configure-a-low-disk-space-alert-thumbnail.jpg) | ![Image](https://www.hdd-tool.com/images/disk-space/low-disk-space-windows8.jpg) |
 
 ## 1️⃣ 반복 업로드 누적
 
@@ -78,13 +74,9 @@ fileyo, p2p, 파일공유
 
 # 💡 비용 절감 방법
 
-![Image](https://cdn.dribbble.com/userupload/8974178/file/original-ffe445872bfe9e5d9c9de858db2381de.png?format=webp\&resize=400x300\&vertical=center)
-
-![Image](https://res.cloudinary.com/dry8rzbyx/image/fetch/s--BwRTmuVJ--/f_auto/q_auto/c_scale%2Cw_1536/https%3A//www.knime.com/sites/default/files/public/2024-08/the_data_lifecycle.png)
-
-![Image](https://cdn.dribbble.com/userupload/27523279/file/original-4c61e8f9040953760cb82f62ef4adb78.gif)
-
-![Image](https://miro.medium.com/1%2A0EuJvw1m9KQw9rqlkMVAxA.png)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://cdn.dribbble.com/userupload/8974178/file/original-ffe445872bfe9e5d9c9de858db2381de.png?format=webp\&resize=400x300\&vertical=center) | ![Image](https://res.cloudinary.com/dry8rzbyx/image/fetch/s--BwRTmuVJ--/f_auto/q_auto/c_scale%2Cw_1536/https%3A//www.knime.com/sites/default/files/public/2024-08/the_data_lifecycle.png) | ![Image](https://cdn.dribbble.com/userupload/27523279/file/original-4c61e8f9040953760cb82f62ef4adb78.gif) | ![Image](https://miro.medium.com/1%2A0EuJvw1m9KQw9rqlkMVAxA.png) |
 
 ## ✔ 자주 쓰는 파일은 버전 체계 운영
 
@@ -133,13 +125,9 @@ fileyo 같은 구조는
 
 # 📊 팀 단위 개선 전략
 
-![Image](https://www.slideteam.net/media/catalog/product/cache/1280x720/w/e/website_monthly_usage_analytics_report_dashboard_slide01.jpg)
-
-![Image](https://www.watchguard.com/help/docs/help-center/en-US/Content/en-US/Wi-Fi-Cloud/analyze_guestmanager/images/wifiusage_data_duration.jpg)
-
-![Image](https://images.openai.com/static-rsc-3/lBT7heWX7hT-v72C-j5W0Qbq7_g2yICYBqRh75BDEBeAc-XwWo7D4juOkor5_C49ghMzdgsNrTHnXXTdYEdC0MVergHmmLOP4kkx0yew4CA?purpose=fullsize\&v=1)
-
-![Image](https://www.slideteam.net/media/catalog/product/cache/1280x720/k/p/kpi_dashboard_for_tracking_project_team_performance_playbook_for_developers_slide01.jpg)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://www.slideteam.net/media/catalog/product/cache/1280x720/w/e/website_monthly_usage_analytics_report_dashboard_slide01.jpg) | ![Image](https://www.watchguard.com/help/docs/help-center/en-US/Content/en-US/Wi-Fi-Cloud/analyze_guestmanager/images/wifiusage_data_duration.jpg) | ![Image](https://images.openai.com/static-rsc-3/lBT7heWX7hT-v72C-j5W0Qbq7_g2yICYBqRh75BDEBeAc-XwWo7D4juOkor5_C49ghMzdgsNrTHnXXTdYEdC0MVergHmmLOP4kkx0yew4CA?purpose=fullsize\&v=1) | ![Image](https://www.slideteam.net/media/catalog/product/cache/1280x720/k/p/kpi_dashboard_for_tracking_project_team_performance_playbook_for_developers_slide01.jpg) |
 
 비용은
 측정해야 줄어요

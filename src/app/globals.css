@@ -1,6 +1,7 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 @import "shadcn/tailwind.css";
+@plugin "@tailwindcss/typography";
 
 @custom-variant dark (&:is(.dark *));
 
@@ -35,6 +36,65 @@ body {
         radial-gradient(140% 70% at 112% 14%, transparent 62%, color-mix(in oklab, #e9cfab 10%, transparent) 63%, transparent 64.2%),
         radial-gradient(132% 68% at 116% 34%, transparent 66%, color-mix(in oklab, #e9cfab 8%, transparent) 67%, transparent 68.2%),
         radial-gradient(124% 64% at -20% 86%, transparent 64%, color-mix(in oklab, #e9cfab 7%, transparent) 65%, transparent 66.2%);
+}
+
+.guide-markdown p:has(> img:only-child),
+.guide-markdown p:has(> a:only-child > img:only-child),
+.guide-markdown p.md-image-item,
+.guide-markdown .md-image-item {
+    display: inline-block;
+    width: calc(50% - 0.5rem);
+    margin: 0 0.75rem 0.75rem 0;
+    vertical-align: top;
+}
+
+.guide-markdown p:has(> img:only-child) img,
+.guide-markdown p:has(> a:only-child > img:only-child) img,
+.guide-markdown p.md-image-item img,
+.guide-markdown .md-image-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 0.5rem;
+    border: 1px solid var(--border);
+}
+
+.guide-markdown table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: separate;
+    border-spacing: 0.5rem;
+}
+
+.guide-markdown table td,
+.guide-markdown table th {
+    width: 25%;
+    vertical-align: top;
+    padding: 0;
+}
+
+.guide-markdown table td p,
+.guide-markdown table th p {
+    margin: 0 !important;
+}
+
+.guide-markdown table img {
+    display: block;
+    width: 100% !important;
+    height: 160px;
+    object-fit: cover;
+    border-radius: 0.5rem;
+    border: 1px solid var(--border);
+}
+
+@media (max-width: 768px) {
+    .guide-markdown p:has(> img:only-child),
+    .guide-markdown p:has(> a:only-child > img:only-child),
+    .guide-markdown p.md-image-item,
+    .guide-markdown .md-image-item {
+        display: block;
+        width: 100%;
+        margin-right: 0;
+    }
 }
 
 @theme inline {

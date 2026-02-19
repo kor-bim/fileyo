@@ -25,13 +25,9 @@ publishedAt: "2026-03-05"
 
 # ✅ 1️⃣ 장애 유형 분류
 
-![Image](https://images.openai.com/static-rsc-3/wleSflGBVH1LG9_RDYUh2IyLJs9igcJ7t5yCdDhi79y8KmTG3qAnrGsHRdbQVxGz_t-ZWOLsn-R9wxIpEKdDSIb5rjImURHBndMwQfLGlgM?purpose=fullsize\&v=1)
-
-![Image](https://i.imgur.com/69pPV7K.png)
-
-![Image](https://learn-attachment.microsoft.com/api/attachments/2ca07bce-2ec4-4d9e-8aa1-c80338cbbb50?platform=QnA)
-
-![Image](https://www.easeus.com/images/en/data-recovery/drw-pro/the-file-is-corrupt-and-cannot-be-opened.png)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://images.openai.com/static-rsc-3/wleSflGBVH1LG9_RDYUh2IyLJs9igcJ7t5yCdDhi79y8KmTG3qAnrGsHRdbQVxGz_t-ZWOLsn-R9wxIpEKdDSIb5rjImURHBndMwQfLGlgM?purpose=fullsize\&v=1) | ![Image](https://i.imgur.com/69pPV7K.png) | ![Image](https://learn-attachment.microsoft.com/api/attachments/2ca07bce-2ec4-4d9e-8aa1-c80338cbbb50?platform=QnA) | ![Image](https://www.easeus.com/images/en/data-recovery/drw-pro/the-file-is-corrupt-and-cannot-be-opened.png) |
 
 ## 🔌 연결 실패
 
@@ -157,13 +153,9 @@ fileyo 같은 p2p로 전환
 
 # 🔄 3️⃣ 재발 방지 전략
 
-![Image](https://www.smartsheet.com/sites/default/files/2025-04/ic-basic-incident-report-template.png)
-
-![Image](https://www.itsm-docs.com/cdn/shop/files/issuelog_36c375eb-8824-42fa-a051-54eb6e4949c7_1400x.jpg?v=1737040426)
-
-![Image](https://assets.visme.co/templates/whiteboards/thumbnails/i_Web-Development-Project-Retrospective-Whiteboard_full.jpg)
-
-![Image](https://support.microsoft.com/images/en-us/ab38d087-ab24-42cf-9118-88fe2fd51e04)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://www.smartsheet.com/sites/default/files/2025-04/ic-basic-incident-report-template.png) | ![Image](https://www.itsm-docs.com/cdn/shop/files/issuelog_36c375eb-8824-42fa-a051-54eb6e4949c7_1400x.jpg?v=1737040426) | ![Image](https://assets.visme.co/templates/whiteboards/thumbnails/i_Web-Development-Project-Retrospective-Whiteboard_full.jpg) | ![Image](https://support.microsoft.com/images/en-us/ab38d087-ab24-42cf-9118-88fe2fd51e04) |
 
 ## ✔ 장애 템플릿 기록
 

@@ -26,13 +26,9 @@ publishedAt: "2026-01-21"
 
 ## 1️⃣ 즉시성: 지금 바로 전달해야 하나요?
 
-![Image](https://pro2col.com/hs-fs/hubfs/workflow-v2.jpg?height=574\&name=workflow-v2.jpg\&width=850)
-
-![Image](https://www.easeus.com/images/en/screenshot/todo-pctrans/share-files-between-computers-on-different-networks.png)
-
-![Image](https://media.kingston.com/kingston/articles/articles-pc-performance-mts-cycle-diagram.jpg)
-
-![Image](https://png.pngtree.com/png-clipart/20230621/original/pngtree-computer-data-transfer-files-vector-png-image_9193322.png)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://pro2col.com/hs-fs/hubfs/workflow-v2.jpg?height=574\&name=workflow-v2.jpg\&width=850) | ![Image](https://www.easeus.com/images/en/screenshot/todo-pctrans/share-files-between-computers-on-different-networks.png) | ![Image](https://media.kingston.com/kingston/articles/articles-pc-performance-mts-cycle-diagram.jpg) | ![Image](https://png.pngtree.com/png-clipart/20230621/original/pngtree-computer-data-transfer-files-vector-png-image_9193322.png) |
 
 지금 당장 보내야 한다면
 업로드 대기 시간이
@@ -76,13 +72,9 @@ p2p 쪽이에요
 
 ## 3️⃣ 보안성: 접근 통제가 필수인가요?
 
-![Image](https://support.logsign.net/hc/article_attachments/5776373727378)
-
-![Image](https://ps.w.org/password-protected/assets/banner-1544x500.jpg?rev=3107315)
-
-![Image](https://www.terranovasecurity.com/sites/default/files/migration/cloud-security-norton.png)
-
-![Image](https://assets.esecurityplanet.com/uploads/2024/02/V2_ESP_CloudStorageSecurityIssuesAndRisks_2024_DA_rnd3-1-1024x899.png)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://support.logsign.net/hc/article_attachments/5776373727378) | ![Image](https://ps.w.org/password-protected/assets/banner-1544x500.jpg?rev=3107315) | ![Image](https://www.terranovasecurity.com/sites/default/files/migration/cloud-security-norton.png) | ![Image](https://assets.esecurityplanet.com/uploads/2024/02/V2_ESP_CloudStorageSecurityIssuesAndRisks_2024_DA_rnd3-1-1024x899.png) |
 
 민감 자료인가요?
 

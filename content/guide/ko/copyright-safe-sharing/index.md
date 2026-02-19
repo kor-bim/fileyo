@@ -28,13 +28,9 @@ publishedAt: "2026-02-02"
 
 # 1️⃣ 공유 전 “권리 상태”부터 확인하세요 🔍
 
-![Image](https://www.rocketlawyer.com/binaries/content/gallery/responsive/thumbnails/us/drafts/sample-copyright-license-agreement-template.png)
-
-![Image](https://images.openai.com/static-rsc-3/LaqRAhZMYpRgwBqOOGAdcUFi-r7TrFNDdFSCGBcN7DZwQRje_Krm_sosc80l9xEnY6rlL2n4KO7okkH4jO9fB5zj5GIHFuxvU56W0T2VeUg?purpose=fullsize\&v=1)
-
-![Image](https://docs.trendmicro.com/media/f36625c6-acb9-4ea3-ad9d-6dceec83017f/images/licenses%3D3b49b98a-9d43-4c55-a906-dd698ac397ec.png)
-
-![Image](https://help.deepsecurity.trendmicro.com/aws/Resources/images/license-details.png)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://www.rocketlawyer.com/binaries/content/gallery/responsive/thumbnails/us/drafts/sample-copyright-license-agreement-template.png) | ![Image](https://images.openai.com/static-rsc-3/LaqRAhZMYpRgwBqOOGAdcUFi-r7TrFNDdFSCGBcN7DZwQRje_Krm_sosc80l9xEnY6rlL2n4KO7okkH4jO9fB5zj5GIHFuxvU56W0T2VeUg?purpose=fullsize\&v=1) | ![Image](https://docs.trendmicro.com/media/f36625c6-acb9-4ea3-ad9d-6dceec83017f/images/licenses%3D3b49b98a-9d43-4c55-a906-dd698ac397ec.png) | ![Image](https://help.deepsecurity.trendmicro.com/aws/Resources/images/license-details.png) |
 
 파일을 보내기 전에
 이 질문부터 해요
@@ -127,13 +123,9 @@ fileyo, p2p, 파일공유
 
 # 6️⃣ 위반 요청이 오면 즉시 대응 📩
 
-![Image](https://imgv2-2-f.scribdassets.com/img/document/273842996/original/9d304a40a6/1?v=1)
-
-![Image](https://storage.googleapis.com/support-forums-api/attachment/thread-244279221-13357325191473687878.png)
-
-![Image](https://images.squarespace-cdn.com/content/v1/51b64d8ae4b0c042edeecd7e/dbc65bf1-a1cb-46ff-bb53-d5b5092492c3/Blog%2Barticle%2Bcompliance%2B%282%29.png)
-
-![Image](https://sc-cms-prod103-cdn-dsb5cvath4adbgd0.z01.azurefd.net/-/media/images/astoncarter/insights/articles/managing-a-compliance-operations-team_website.jpg?rev=c0965153aa5241c8b809844e6357df4e)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://imgv2-2-f.scribdassets.com/img/document/273842996/original/9d304a40a6/1?v=1) | ![Image](https://storage.googleapis.com/support-forums-api/attachment/thread-244279221-13357325191473687878.png) | ![Image](https://images.squarespace-cdn.com/content/v1/51b64d8ae4b0c042edeecd7e/dbc65bf1-a1cb-46ff-bb53-d5b5092492c3/Blog%2Barticle%2Bcompliance%2B%282%29.png) | ![Image](https://sc-cms-prod103-cdn-dsb5cvath4adbgd0.z01.azurefd.net/-/media/images/astoncarter/insights/articles/managing-a-compliance-operations-team_website.jpg?rev=c0965153aa5241c8b809844e6357df4e) |
 
 권리자 삭제 요청이 오면
 

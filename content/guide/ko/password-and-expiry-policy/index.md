@@ -26,13 +26,9 @@ publishedAt: "2026-02-20"
 
 # ✅ 1️⃣ 비밀번호 정책 설계
 
-![Image](https://uk.norton.com/content/dam/blogs/images/norton/am/how-to-choose-a-secure-password-mobile-03.png)
-
-![Image](https://i.sstatic.net/yoR0D.png)
-
-![Image](https://images.openai.com/static-rsc-3/fXwz_2nls5EH7PERMBd3aeQZrikfS7HM-a8AjKdxkne536cgTabvII4GezvFSg01zNATP9SnlapdKBWDRIuo7DxZjAkam_E47R0F2drRP2o?purpose=fullsize\&v=1)
-
-![Image](https://images.openai.com/static-rsc-3/JE9K2D3RziibYyTH1aoTYHor59__hHy7FRbHX_p1a-RMZgcrO57dqrfZrvo-_Swmu_M-Pu2yOpra3lhhVnZkGAvulolIIovdsAXfuavPF0M?purpose=fullsize\&v=1)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://uk.norton.com/content/dam/blogs/images/norton/am/how-to-choose-a-secure-password-mobile-03.png) | ![Image](https://i.sstatic.net/yoR0D.png) | ![Image](https://images.openai.com/static-rsc-3/fXwz_2nls5EH7PERMBd3aeQZrikfS7HM-a8AjKdxkne536cgTabvII4GezvFSg01zNATP9SnlapdKBWDRIuo7DxZjAkam_E47R0F2drRP2o?purpose=fullsize\&v=1) | ![Image](https://images.openai.com/static-rsc-3/JE9K2D3RziibYyTH1aoTYHor59__hHy7FRbHX_p1a-RMZgcrO57dqrfZrvo-_Swmu_M-Pu2yOpra3lhhVnZkGAvulolIIovdsAXfuavPF0M?purpose=fullsize\&v=1) |
 
 ## ✔ 최소 길이 기준
 
@@ -88,13 +84,9 @@ fileyo, p2p, 파일공유
 
 # ⏳ 2️⃣ 만료 정책 기준
 
-![Image](https://support.box.com/hc/article_attachments/40363077580051)
-
-![Image](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12141069042/original/V9WF85KL99xHGPft1S6pQeyMY1hTbDVrQg.png?1712044964=)
-
-![Image](https://replug.io/_next/image?q=100\&url=https%3A%2F%2Finternal-blog.replug.io%2Fwp-content%2Fuploads%2F2024%2F11%2Fcreate-temporary-url.jpg\&w=3840)
-
-![Image](https://docs.short.io/assets/images/features-how-to-set-up-link-expiration-or-temporary-url-screenshotfrom2025-03-1211-32-25-e85be8da-32c9da12f442b3ac7b65d6a5d23d6068.png)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://support.box.com/hc/article_attachments/40363077580051) | ![Image](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/12141069042/original/V9WF85KL99xHGPft1S6pQeyMY1hTbDVrQg.png?1712044964=) | ![Image](https://replug.io/_next/image?q=100\&url=https%3A%2F%2Finternal-blog.replug.io%2Fwp-content%2Fuploads%2F2024%2F11%2Fcreate-temporary-url.jpg\&w=3840) | ![Image](https://docs.short.io/assets/images/features-how-to-set-up-link-expiration-or-temporary-url-screenshotfrom2025-03-1211-32-25-e85be8da-32c9da12f442b3ac7b65d6a5d23d6068.png) |
 
 보안은
 기간 관리가 핵심이에요
@@ -134,13 +126,9 @@ fileyo, p2p, 파일공유
 
 # 📊 3️⃣ 감사 대응을 위한 로그 체계
 
-![Image](https://pro2col.com/hs-fs/hubfs/Dashboarding%20And%20Analytics%20-%20Dashboard%20Overview.png?height=374\&name=Dashboarding+And+Analytics+-+Dashboard+Overview.png\&width=752)
-
-![Image](https://images.ui8.net/uploads/screen3_1720700586889.png)
-
-![Image](https://www.bitlyft.com/hubfs/Imported_Blog_Media/Security-logging-monitoring-header.jpg)
-
-![Image](https://www.atatus.com/blog/content/images/2024/02/logs-monitoring-1.png)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://pro2col.com/hs-fs/hubfs/Dashboarding%20And%20Analytics%20-%20Dashboard%20Overview.png?height=374\&name=Dashboarding+And+Analytics+-+Dashboard+Overview.png\&width=752) | ![Image](https://images.ui8.net/uploads/screen3_1720700586889.png) | ![Image](https://www.bitlyft.com/hubfs/Imported_Blog_Media/Security-logging-monitoring-header.jpg) | ![Image](https://www.atatus.com/blog/content/images/2024/02/logs-monitoring-1.png) |
 
 문제가 생겼을 때
 기록이 답이에요

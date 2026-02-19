@@ -27,13 +27,9 @@ publishedAt: "2026-01-27"
 
 # ✅ 1️⃣ 인계 전 검수 체크리스트
 
-![Image](https://support.microsoft.com/images/en-us/eb435f44-8737-4f28-bd31-d87580e479b4)
-
-![Image](https://i.sstatic.net/aPWlZ.png)
-
-![Image](https://i.sstatic.net/7rGxT.png)
-
-![Image](https://i.sstatic.net/rl9t2.png)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://support.microsoft.com/images/en-us/eb435f44-8737-4f28-bd31-d87580e479b4) | ![Image](https://i.sstatic.net/aPWlZ.png) | ![Image](https://i.sstatic.net/7rGxT.png) | ![Image](https://i.sstatic.net/rl9t2.png) |
 
 ## ✔ 최종 버전 여부 확인
 
@@ -90,13 +86,9 @@ fileyo, p2p, 파일공유
 
 # 📦 2️⃣ 인계 전달 단계
 
-![Image](https://learn-attachment.microsoft.com/api/attachments/2aa4094a-ba4c-4145-91dd-068b9487736e?platform=QnA)
-
-![Image](https://ui-patterns.com/uploads/image/file/3717/preview_Screen_Shot_2015-11-24_at_20.56.50.png)
-
-![Image](https://start.docuware.com/hubfs/blog-images/Product_blog/June_16/WEC_Open_with_EN-1.png)
-
-![Image](https://cdn.prod.website-files.com/6871ab3b63692dd4cfd9ea85/687dc251af47bc39dbd15d9a_onboarding-hero2.png)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://learn-attachment.microsoft.com/api/attachments/2aa4094a-ba4c-4145-91dd-068b9487736e?platform=QnA) | ![Image](https://ui-patterns.com/uploads/image/file/3717/preview_Screen_Shot_2015-11-24_at_20.56.50.png) | ![Image](https://start.docuware.com/hubfs/blog-images/Product_blog/June_16/WEC_Open_with_EN-1.png) | ![Image](https://cdn.prod.website-files.com/6871ab3b63692dd4cfd9ea85/687dc251af47bc39dbd15d9a_onboarding-hero2.png) |
 
 ## ✔ 전달 방식 명시
 
@@ -139,13 +131,9 @@ fileyo, p2p, 파일공유
 
 # 🛡 3️⃣ 분쟁 예방을 위한 기록 관리
 
-![Image](https://docs.informatica.com/content/dam/source/GUID-3/GUID-3F5CB741-53D4-479B-88E0-391B7C4B9C56/68/en/GUID-42F845E1-68B8-4512-8898-AA167108281B-low.png)
-
-![Image](https://registeredemail.com/images/registered_receipt.png)
-
-![Image](https://support.bitmain.com/hc/article_attachments/39873797374233)
-
-![Image](https://support.bitmain.com/hc/article_attachments/39873524747673)
+|  |  |  |  |
+|---|---|---|---|
+| ![Image](https://docs.informatica.com/content/dam/source/GUID-3/GUID-3F5CB741-53D4-479B-88E0-391B7C4B9C56/68/en/GUID-42F845E1-68B8-4512-8898-AA167108281B-low.png) | ![Image](https://registeredemail.com/images/registered_receipt.png) | ![Image](https://support.bitmain.com/hc/article_attachments/39873797374233) | ![Image](https://support.bitmain.com/hc/article_attachments/39873524747673) |
 
 ## ✔ 파일명 기록
 
