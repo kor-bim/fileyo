@@ -32,7 +32,7 @@ function isImageOnlyParagraph(children: ReactNode) {
   if (nodes.length !== 1) return false
 
   const onlyNode = nodes[0]
-  if (!isValidElement(onlyNode)) return false
+  if (!isValidElement<{ children?: ReactNode }>(onlyNode)) return false
 
   if (typeof onlyNode.type === 'string' && onlyNode.type === 'img') {
     return true
