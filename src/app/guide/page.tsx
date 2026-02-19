@@ -1,7 +1,8 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import { getLocale } from 'next-intl/server'
-import { getGuideLabels, getGuidePosts } from '@/lib/content'
+import { getGuideLabels } from '@/lib/content'
+import { getGuidePosts } from '@/lib/guide-content'
 
 export async function generateMetadata(): Promise<Metadata> {
   const locale = await getLocale()

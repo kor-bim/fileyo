@@ -1,4 +1,4 @@
-import { getGuideSlugs } from '@/lib/content'
+import { getGuideSlugs } from '@/lib/guide-content'
 
 const appUrl = process.env.NEXT_PUBLIC_APP_URL || 'http://localhost:3000'
 

@@ -2,7 +2,10 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { getLocale } from 'next-intl/server'
-import { getGuideLabels, getGuidePost, getGuideSlugs } from '@/lib/content'
+import ReactMarkdown from 'react-markdown'
+import remarkGfm from 'remark-gfm'
+import { getGuideLabels } from '@/lib/content'
+import { getGuidePost, getGuideSlugs } from '@/lib/guide-content'
 
 interface PageProps {
   params: Promise<{ slug: string }>
@@ -41,18 +44,24 @@ export default async function GuidePostPage({ params }: Readonly<PageProps>) {
         <h1 className="text-3xl font-semibold tracking-tight">{post.title}</h1>
         <p className="text-sm text-muted-foreground">{post.description}</p>
       </header>
-      <div className="space-y-5">
-        {post.sections.map((section) => (
-          <section key={section.heading} className="space-y-2">
-            <h2 className="text-xl font-semibold">{section.heading}</h2>
-            {section.paragraphs.map((paragraph) => (
-              <p key={paragraph} className="leading-7 text-foreground/90">
-                {paragraph}
-              </p>
-            ))}
-          </section>
-        ))}
-      </div>
+      {post.markdown ? (
+        <div className="prose prose-neutral max-w-none dark:prose-invert">
+          <ReactMarkdown remarkPlugins={[remarkGfm]}>{post.markdown}</ReactMarkdown>
+        </div>
+      ) : (
+        <div className="space-y-5">
+          {post.sections.map((section) => (
+            <section key={section.heading} className="space-y-2">
+              <h2 className="text-xl font-semibold">{section.heading}</h2>
+              {section.paragraphs.map((paragraph) => (
+                <p key={paragraph} className="leading-7 text-foreground/90">
+                  {paragraph}
+                </p>
+              ))}
+            </section>
+          ))}
+        </div>
+      )}
     </article>
   )
 }
