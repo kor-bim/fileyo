@@ -1,8 +1,8 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
-import { getLocale } from 'next-intl/server'
 import ReactMarkdown from 'react-markdown'
+import remarkBreaks from 'remark-breaks'
 import remarkGfm from 'remark-gfm'
 import { getGuideLabels } from '@/lib/content'
 import { getGuidePost, getGuideSlugs } from '@/lib/guide-content'
@@ -16,9 +16,8 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: Readonly<PageProps>): Promise<Metadata> {
-  const locale = await getLocale()
   const { slug } = await params
-  const post = getGuidePost(slug, locale)
+  const post = getGuidePost(slug, 'ko')
   if (!post) return {}
 
   return {
@@ -28,10 +27,9 @@ export async function generateMetadata({ params }: Readonly<PageProps>): Promise
 }
 
 export default async function GuidePostPage({ params }: Readonly<PageProps>) {
-  const locale = await getLocale()
-  const labels = getGuideLabels(locale)
+  const labels = getGuideLabels('ko')
   const { slug } = await params
-  const post = getGuidePost(slug, locale)
+  const post = getGuidePost(slug, 'ko')
   if (!post) notFound()
 
   return (
@@ -46,7 +44,7 @@ export default async function GuidePostPage({ params }: Readonly<PageProps>) {
       </header>
       {post.markdown ? (
         <div className="prose prose-neutral max-w-none dark:prose-invert">
-          <ReactMarkdown remarkPlugins={[remarkGfm]}>{post.markdown}</ReactMarkdown>
+          <ReactMarkdown remarkPlugins={[remarkGfm, remarkBreaks]}>{post.markdown}</ReactMarkdown>
         </div>
       ) : (
         <div className="space-y-5">

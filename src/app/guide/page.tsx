@@ -1,12 +1,10 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
-import { getLocale } from 'next-intl/server'
 import { getGuideLabels } from '@/lib/content'
 import { getGuidePosts } from '@/lib/guide-content'
 
 export async function generateMetadata(): Promise<Metadata> {
-  const locale = await getLocale()
-  const labels = getGuideLabels(locale)
+  const labels = getGuideLabels('ko')
   return {
     title: labels.pageTitle,
     description: labels.pageDescription
@@ -14,9 +12,8 @@ export async function generateMetadata(): Promise<Metadata> {
 }
 
 export default async function GuideIndexPage() {
-  const locale = await getLocale()
-  const labels = getGuideLabels(locale)
-  const guidePosts = getGuidePosts(locale)
+  const labels = getGuideLabels('ko')
+  const guidePosts = getGuidePosts('ko')
 
   return (
     <div className="mx-auto w-full max-w-5xl space-y-6 px-4 py-4">

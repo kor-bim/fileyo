@@ -72,13 +72,14 @@ function getKoGuidePosts(): MdGuidePost[] {
   return result.sort((a, b) => a.slug.localeCompare(b.slug))
 }
 
-export function getGuidePosts(locale: string): MdGuidePost[] {
-  if (locale === 'ko') return getKoGuidePosts()
-  return getLegacyGuidePosts(locale)
+export function getGuidePosts(_locale: string): MdGuidePost[] {
+  void _locale
+  return getKoGuidePosts()
 }
 
-export function getGuidePost(slug: string, locale: string): MdGuidePost | undefined {
-  return getGuidePosts(locale).find((post) => post.slug === slug)
+export function getGuidePost(slug: string, _locale: string): MdGuidePost | undefined {
+  void _locale
+  return getGuidePosts('ko').find((post) => post.slug === slug)
 }
 
 export function getGuideSlugs(): Array<{ slug: string }> {
